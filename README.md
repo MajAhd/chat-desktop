@@ -2,6 +2,9 @@
 
 Electron.js , React.js , Socket.io
 
+![alt text](./public/img/Screen.png)
+
+
 ## Available Scripts:
 
 `npm install`
